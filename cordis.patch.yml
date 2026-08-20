@@ -1,0 +1,4 @@
+# SignalGate bundle layer: one neutral governed-operations plugin.
+- insert:
+    - id: signal-gate-mission-control
+      name: '@dsh-showcase/governed-mission-control'

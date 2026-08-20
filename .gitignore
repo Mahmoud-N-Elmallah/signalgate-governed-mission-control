@@ -1,0 +1,14 @@
+node_modules/
+.artifacts/
+.dsh-signal-gate/
+.agents/
+.specify/
+.playwright-cli/
+bugs/
+output/
+specs/
+verification/
+*.tgz
+.env
+.env.*
+!.env.example
